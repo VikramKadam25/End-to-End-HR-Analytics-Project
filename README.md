@@ -37,7 +37,7 @@ Rather than simply replicating the same layout across tools, this project levera
 #### 2.Power BI Dashboard
 * Focus: Deep Demographic Filtering & Departmental Performance.
 * Unique KPIs / Charts:
-  * Department Matrix: Detailed breakdown comparing 'Average Work-Life Balance` against 'Attrition %' per Department (Software, R&D, Sales, HR, Hardware, Support).
+  * Department Matrix: Detailed breakdown comparing 'Average Work-Life Balance' against 'Attrition %' per Department (Software, R&D, Sales, HR, Hardware, Support).
   * Job Satisfaction Scores: Column analysis evaluating satisfaction scores (out of 3/4) by specific job roles.
   * Travel Frequency: Visual breakdown of employee travel demands (Non-Travel vs. Travel Frequently vs. Travel Rarely).
 
