@@ -17,11 +17,11 @@ Rather than simply replicating the same layout across tools, this project levera
 ## Cross-Platform KPI & Visual Breakdown
 
 ### Common Overarching Metrics (Across All Tools)
-1.Total Employees: 50,000
-2.Overall Attrition Rate: 50.21%
-3.Average Employee Age: 39 Years
-4.Average Monthly Income: ₹26,016
-5.Gender Ratio: ~50.12% Male : 49.88% Female
+*Total Employees: 50,000
+*Overall Attrition Rate: 50.21%
+*Average Employee Age: 39 Years
+*Average Monthly Income: ₹26,016
+*Gender Ratio: ~50.12% Male : 49.88% Female
 
 ---
 
@@ -47,6 +47,12 @@ Rather than simply replicating the same layout across tools, this project levera
   * Performance Rating by Education: Bar breakdown of employee performance ratings across fields like Life Sciences, Technical Degrees, and Marketing.
   * Tenure Decay Curve: Specialized visualization for 'Years Since Last Promotion' showing attrition probability over time.
   * Gender Pay Gap Matrix: Side-by-side comparison of average income for Males vs. Females across each department.
+
+####To ensure seamless navigation for non-technical stakeholders, all dashboards feature full User interface And User Experience usability enhancements:
+*Interactive Page Navigation: Clear tab switching and button controls (Dashboard -- Help / User Guide) across Excel, Power BI, and Tableau.
+* Embedded Help & Guidance Pages: Dedicated help sheets and info icons ('?' / 'i') providing clear documentation on slicers, filters, and chart definitions.
+* Direct Support Integration: Embedded support panels with actionable contact links (analytics-support@company.com') built directly into the dashboard canvasses for instant technical escalation.
+
 
 #### 4. SQL Queries and Analysis 
 * Focus: Relational Data Extraction, Multi-Table Joins & Key Metric Aggregation.
