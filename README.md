@@ -17,11 +17,11 @@ Rather than simply replicating the same layout across tools, this project levera
 ## Cross-Platform KPI & Visual Breakdown
 
 ### Common Overarching Metrics (Across All Tools)
-Total Employees: 50,000
-Overall Attrition Rate: 50.21%
-Average Employee Age: 39 Years
-Average Monthly Income: ₹26,016
-Gender Ratio: ~50.12% Male : 49.88% Female
+1.Total Employees: 50,000
+2.Overall Attrition Rate: 50.21%
+3.Average Employee Age: 39 Years
+4.Average Monthly Income: ₹26,016
+5.Gender Ratio: ~50.12% Male : 49.88% Female
 
 ---
 
