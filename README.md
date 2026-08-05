@@ -52,7 +52,7 @@ Rather than simply replicating the same layout across tools, this project levera
 
 To ensure seamless navigation for non-technical stakeholders, all dashboards feature full User Interface and User Experience usability enhancements:
 
-* Interactive Page Navigation: Clear tab switching and button controls ('Dashboard'-- `Help / User Guide') across Excel, Power BI, and Tableau.
+* Interactive Page Navigation: Clear tab switching and button controls ('Dashboard'-- 'Help / User Guide') across Excel, Power BI, and Tableau.
 * Embedded Help & Guidance Pages: Dedicated help sheets and info icons ('? / 'i') providing clear documentation on slicers, filters, and chart definitions.
 * Direct Support Integration: Embedded support panels with actionable contact links ('analytics-support@company.com) built directly into the dashboard canvasses for instant technical escalation.
 
